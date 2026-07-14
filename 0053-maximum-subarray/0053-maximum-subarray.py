@@ -16,4 +16,4 @@ class Solution(object):
                 start = temp
                 end = i
 
-        return max_sum      
+        return max_sum # nums[start:end+1]      
