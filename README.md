@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0704-binary-search) |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
