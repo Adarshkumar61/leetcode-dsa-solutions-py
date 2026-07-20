@@ -1,21 +1,22 @@
 class Solution(object):
         def searchRange(self, nums, target):
-
-            def findBound(isFirst):
+            def first_bound(is_first):
                 left = 0
-                right = len(nums) - 1
+                right = len(nums) -1
                 ans = -1
                 while left <= right:
-                    mid = (left + right) // 2
+                    mid = (left + right) //2
                     if nums[mid] == target:
                         ans = mid
-                        if isFirst:
-                            right = mid - 1
+                        if is_first:
+                            right = mid -1
                         else:
-                            left = mid + 1
-                    elif nums[mid] < target:
-                        left = mid +1
+                            left = mid +1
+                    elif nums[mid] > target:
+                        right = mid -1
                     else:
-                        right = mid - 1
+                        left = mid+1
                 return ans
-            return [findBound(True),findBound(False)]
+            first = first_bound(True)
+            last = first_bound(False)
+            return [first, last]
