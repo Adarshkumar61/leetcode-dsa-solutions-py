@@ -5,4 +5,5 @@ class Solution(object):
             if nums[i] != nums[k]:
                 k+=1
                 nums[k] = nums[i]
+                
         return k+1
