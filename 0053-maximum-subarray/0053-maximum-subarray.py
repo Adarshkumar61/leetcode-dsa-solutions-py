@@ -3,7 +3,7 @@ class Solution(object):
         curr_sum = nums[0]
         max_sum = nums[0]
         start = 0
-        end = 9
+        end = 0
         temp = 0
         for i in range(1, len(nums)):
             if nums[i] > nums[i]+ curr_sum:
