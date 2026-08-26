@@ -7,4 +7,4 @@ class Solution(object):
                 prefix = prefix[:-1]
                 if prefix == "":
                     return ""
-        return prefix        
+        return prefix
