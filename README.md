@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0047-permutations-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adarshkumar61/leetcode-dsa-solutions-py/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
